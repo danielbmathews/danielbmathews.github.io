@@ -1,1 +1,23 @@
 theme: jekyll-theme-slate
+
+title: Analytics Flywheel
+description: "Welcome to my musings on managing data and data teams"
+
+sidebar:
+  nav: sidebar
+
+sidebar:
+  - title: "Essays"
+    children:
+      - title: "Spoons, Forks and Sporks"
+        url: spoons_forms_and_sporks.md
+      - title: "6 Ss"
+        url: 6Ss_when_to_centralize.md
+      - title: "Data Career Paths"
+        url: data_career_paths.md
+  - title: "About me"
+    children:
+      - title: "Experience"
+        url: /
+      - title: "Education"
+        url: /
