@@ -1,5 +1,9 @@
+The viewpoints in the following post are my own and not meant to represent an official stance from Google.
+
 # Spoons, Forks and Sporks
 _“How you think about your customers influences how you respond to them.”_ ― Marilyn Suttle
+
+<img src="./images/spoons_sporks_forks.png" width="600" title="Spoons, Forks and Sporks">
 
 
 Data Engineers (sometimes Business Intelligence Analysts or Data Warehouse Analysts) are in the business of delivering analytics products.  As with all products, success requires setting a vision, identifying the use cases and then targeting your product to the right users.  Understanding these users is critical.  Personas are a common technique to identify personas.

@@ -1,11 +1,12 @@
+The viewpoints in the following post are my own and not meant to represent an official stance from Google.
+
 6 Ss: when to centralize your data efforts
 
 Engineering / IT team ⟷ Central Data Team ⟷ End Business Users
 
 When scaling an analytics program you quickly run across the question of where a process/dashboard/function should live. A similar question is asked when it comes to insourcing vs outsourcing. You insource for quality. You outsource for price. To you help make this decision I propose asking addressing six questions (conveniently and easy memorization, they all start with S).
 
-![6s](./images/6Ss.jpg)
-
+<img src="./images/6Ss.jpg" width="1000" title="6Ss">
 
 ## Size
 Is the size of the work enough to warrant passing it to a central team? Often this arises from analysts wanting to toss over an individual process or spreadsheet to the central team to run. Central teams need to add frameworks, incorporate many discrete processes into their systems. Each time a new process is onboarded its expensive.
