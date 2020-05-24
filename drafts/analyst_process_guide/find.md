@@ -21,11 +21,7 @@ Use a variant of the [BCG matrix](https://www.bcg.com/about/our-history/growth-s
 
 Include link to Finance spreadsheet
 
-### Deliver projects
-_We don't want projects whose wizardry is bespoke and doesn't scale into a repeatable process._
 
-- What docs are required
-- Where to capture them
 
 *Roles*
 - Analyst: Data discovery, Data clean-up, Question requirements

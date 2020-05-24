@@ -4,7 +4,7 @@
 - Few major dependencies tracked
 - 
 
-
-
-
 # Example of an embedded algorithm
+
+- Needs to be integrated into engineering code
+- Engineering uses version control
