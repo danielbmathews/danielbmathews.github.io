@@ -10,10 +10,14 @@ The team's overall time commitment should be split up according to the 70/20/10 
 
 Remember even though you follow all the best practices, many projects will fail.
 
-- data
-- business objective
-- business owners
-- deadline
+Checklist for projects
+
+1. Business objective
+1. Business owners. Have an owner in that area. Analytics won't make friends (i.e. projects won't get deployed if you find yourself at odds with the client.) Clients have legitimate reasons for wanting to control their world (e.g. approving new projects, sequencing work)
+1. Data. Its wrong to assume that you need a polished data warehouse full of data. But its equally wrong to assume that data sourcing is a trivial activitiy.
+1. Deadline
+
+“Data! Data! Data! I can not build bricks without clay” -Sherlock Holmes
 
 ## Prioritizing
 
